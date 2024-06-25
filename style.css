@@ -244,7 +244,7 @@ a{
     margin-top: 3em;
     margin-left: 12em;
     font-family: 'roboto',sans-serif;
-    text-align: center;
+    text-align: left;
 }
 
 footer{
@@ -298,8 +298,8 @@ footer{
     margin-top: 2em;
 }
 .mediaa{
-    width: 25em;
-    height: 8em;
+    width: 17em;
+    height: 5em;
     margin-top: 4em;
-    margin-left: 6em;
+    margin-left: 9em;
 }
